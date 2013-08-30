@@ -1,0 +1,12 @@
+.reveal .clear {clear:both;}
+.reveal .invisible {visibility: hidden;}
+#technos {height: 500px;}
+#technos a {position: absolute;}
+#technos .size1{font-size: 12px;}
+#technos .size1.visible{opacity: 0.30;}
+#technos .size2{font-size: 16px;}
+#technos .size2.visible{opacity: 0.60;}
+#technos .size3{font-size: 22px;}
+#technos .size3.visible{opacity: 0.80;}
+#technos .size4{font-size: 30px;}
+#technos .size4.visible{opacity: 1.00;}
